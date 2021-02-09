@@ -4,6 +4,9 @@
 Install Virtual Box guest extensions in ubuntu guest
 
 
+For copy and paste between host and local
+
+
 sudo apt-get install virtualbox-guest-dkms virtualbox-guest-utils virtualbox-guest-x11
 
 
