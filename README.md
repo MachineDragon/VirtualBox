@@ -4,6 +4,8 @@
 Install Virtual Box guest extensions in ubuntu guest
 
 
+devices>>>>>insert guest additions cd image
+
 For copy and paste between host and local
 
 
